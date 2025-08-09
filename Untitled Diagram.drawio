@@ -16,7 +16,7 @@
         <mxCell id="nFIHQ8PiYS3pHur5MfzF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFIHQ8PiYS3pHur5MfzF-1" target="nFIHQ8PiYS3pHur5MfzF-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nFIHQ8PiYS3pHur5MfzF-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Front End / UI&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="nFIHQ8PiYS3pHur5MfzF-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Front End&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;UI&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="130" width="150" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nFIHQ8PiYS3pHur5MfzF-6" value="AWS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -87,7 +87,7 @@
         <mxCell id="nFIHQ8PiYS3pHur5MfzF-55" value="Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="328" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nFIHQ8PiYS3pHur5MfzF-56" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="nFIHQ8PiYS3pHur5MfzF-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DataBase&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="130" width="150" height="250" as="geometry" />
         </mxCell>
         <mxCell id="nFIHQ8PiYS3pHur5MfzF-57" value="ORACLE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFIHQ8PiYS3pHur5MfzF-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Server Side&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="13" width="120" height="40" as="geometry" />
+          <mxGeometry x="425" y="20" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
